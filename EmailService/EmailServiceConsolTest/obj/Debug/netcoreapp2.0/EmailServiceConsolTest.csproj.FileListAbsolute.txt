@@ -1,0 +1,12 @@
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailServiceConsolTest.deps.json
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailServiceConsolTest.runtimeconfig.json
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailServiceConsolTest.runtimeconfig.dev.json
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailServiceConsolTest.dll
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailServiceConsolTest.pdb
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailCheckerService.dll
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\bin\Debug\netcoreapp2.0\EmailCheckerService.pdb
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\obj\Debug\netcoreapp2.0\EmailServiceConsolTest.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\obj\Debug\netcoreapp2.0\EmailServiceConsolTest.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\obj\Debug\netcoreapp2.0\EmailServiceConsolTest.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\obj\Debug\netcoreapp2.0\EmailServiceConsolTest.dll
+c:\users\a.haddad\source\repos\EmailService\EmailServiceConsolTest\obj\Debug\netcoreapp2.0\EmailServiceConsolTest.pdb

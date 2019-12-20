@@ -1,0 +1,9 @@
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\bin\Debug\netcoreapp2.0\EmailCheckerService.deps.json
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\bin\Debug\netcoreapp2.0\EmailCheckerService.dll
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\bin\Debug\netcoreapp2.0\EmailCheckerService.pdb
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.dll
+c:\users\a.haddad\source\repos\EmailService\EmailCheckerService\obj\Debug\netcoreapp2.0\EmailCheckerService.pdb

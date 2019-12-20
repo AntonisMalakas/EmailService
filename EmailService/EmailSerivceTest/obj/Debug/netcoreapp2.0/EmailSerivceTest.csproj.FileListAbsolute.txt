@@ -1,0 +1,13 @@
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailSerivceTest.deps.json
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailSerivceTest.runtimeconfig.json
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailSerivceTest.runtimeconfig.dev.json
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailSerivceTest.dll
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailSerivceTest.pdb
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailCheckerService.dll
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\bin\Debug\netcoreapp2.0\EmailCheckerService.pdb
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.csprojResolveAssemblyReference.cache
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.csproj.CoreCompileInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.AssemblyInfoInputs.cache
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.AssemblyInfo.cs
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.dll
+c:\users\a.haddad\source\repos\EmailService\EmailSerivceTest\obj\Debug\netcoreapp2.0\EmailSerivceTest.pdb
